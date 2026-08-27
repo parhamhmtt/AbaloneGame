@@ -355,5 +355,3 @@ Winner
 **AbaloneGame**
 
 C++ • Console Game • Strategy • Two Player • Abalone
-
-![Abalone_standard svg](https://github.com/user-attachments/assets/2ee46932-9b0e-43e8-92c9-7ef2dffc3290)
